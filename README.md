@@ -1,6 +1,6 @@
 # ManageWise
 
-![HireQuotient Logo]<img width="46" alt="image" src="https://github.com/Mansi168/HireQuotient/assets/99342612/5906fe26-516d-42b7-8558-fc273024e5c3">
+<img width="46" alt="image" src="https://github.com/Mansi168/HireQuotient/assets/99342612/5906fe26-516d-42b7-8558-fc273024e5c3">
 
 
 [Live Demo](https://mansi168.github.io/HireQuotient/)
